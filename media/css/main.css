@@ -1,0 +1,16 @@
+.clear{clear:both;}
+
+#homewrap {max-width:1400px;}
+.section-cell {background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 8px; 
+    margin: 1em 0;
+    padding: 1em;
+    width: 100%;
+    box-shadow: 0 1px 3px #c1c1c1;
+    text-decoration: none;
+        }
+.section-title {text-align:center;}
+
+.section-cell img {width:100%; height:auto;}
+
+.label {font-size:120%;}
