@@ -2,6 +2,7 @@
 layout: home
 title: Home
 ---
+<h2> 年度主题：以谦卑束腰，以恩慈相待，以基督的心为心 </h2>
 
 <div class="row">
   <div class="col-xs-12 col-sm-6 col-md-4">
