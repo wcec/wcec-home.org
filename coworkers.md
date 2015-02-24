@@ -10,7 +10,7 @@ title: 牧长同工
 -----
 
  * 榮譽牧師: 毛大衛牧師 Rev. David Mao
- * 中文部牧師: 吕允智牧師 Rev. Paul Lu
+ * 中文部牧師: [吕允智牧師 Rev. Paul Lu](/pastor-lu/)
  * 儿童事工负责人: 刘清莉老师 Ching-Lie Liu
 
 

@@ -1,47 +1,27 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-cn">
-<head>
-  {% include header.html %}
-</head>
-<body id="homepage" class="default">
-<div id="container">
-    {% include top-nav.html %}
-     
-    <div id="columnwrap" class="container-fluid">
-    <div class="row">
-    <div id="content-main" class="col-sm-8 col-xs-12">
-      <article class="post"> 
-        <h1> {{ page.title }} </h1>
-        {% if page.categories %}
-        Category: 
-        {% for category in page.categories %}
-          /<a href="/category/{{category|trim}}.html">{{ category }}</a>
-        {% endfor %}
-        {% endif %}
-        <br/>
-        {% if page.tags %}
-        Tags:
-        {% for tag in page.tags %}
-          <span class="tag"> <a href="/tag/{{tag|trim}}.html">{{ tag }}</a> </span>
-        {% endfor %}
-        {% endif %}
-        <div class="entry"> 
-          {{ content }}
-        </div>
-      </article> 
+---
+layout: default
+---
 
-    </div>
-    <div id="content-related" class="sidebar col-sm-4 col-xs-12">
-      {% include sidebar.html %}
-    </div>
-    </div>
+<article class="post"> 
+  <h1> {{ page.title }} </h1>
 
+  {% if page.categories %}
+  分类:
+  {% for category in page.categories %}
+    /<a href="/category/{{category|trim}}.html">{{ category }}</a>
+  {% endfor %}
+  {% endif %}
+  <br/>
+  
+  {% if page.tags %}
+  标签:
+  {% for tag in page.tags %}
+    <span class="tag"> <a href="/tag/{{tag|trim}}.html">{{ tag }}</a> </span>
+  {% endfor %}
+  {% endif %}
 
-    {% include footer.html %}
-</div>
-
-  {% include google_analytics.html %}
-
-</body>
-</html>
-
+  <br/>
+  <div class="entry"> 
+    {{ content }}
+  </div>
+</article>
