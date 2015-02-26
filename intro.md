@@ -1,7 +1,10 @@
 ---
-layout: post
+layout: default
 title: 教会介绍
 ---
+
+教会介绍
+==========
 
 威明頓主恩堂Wilmington Community Evangelical Church (WCEC) 是在1981年初在特拉華州威明頓(Wilmington, Delaware) 成立的華人基督教会，其成員多為專業人士，大學教職員，研究院學生，家庭主婦，餐館業及其它一般信徒，他們來自不同的地區，包括中國大陸、臺灣、遠東和世界其他地區，也有生長在北美的華裔子弟。
 

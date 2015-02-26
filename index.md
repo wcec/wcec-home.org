@@ -12,8 +12,8 @@ title: Home
     </div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="section-cell" onclick="top.location.href='/category/event/'"> 
-      <img src="http://media.wcec-home.org/image/bookclub_1.jpg" class="section"/> <br/>
+    <div class="section-cell" > 
+      {% include event.html %}
       <span class="label label-primary">近期活动 </span>
     </div>
   </div>

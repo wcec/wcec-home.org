@@ -5,7 +5,7 @@ layout: default
 <article class="post"> 
   <h1> {{ page.title }} </h1>
 
-  {% if page.categories %}
+  {% if page.categories != empty  %}
   分类:
   {% for category in page.categories %}
     /<a href="/category/{{category|trim}}.html">{{ category }}</a>
@@ -13,7 +13,7 @@ layout: default
   {% endif %}
   <br/>
   
-  {% if page.tags %}
+  {% if page.tags != empty %}
   标签:
   {% for tag in page.tags %}
     <span class="tag"> <a href="/tag/{{tag|trim}}.html">{{ tag }}</a> </span>
