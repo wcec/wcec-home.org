@@ -8,10 +8,3 @@ layout: default
   </div>
 </article>
 
-<hr />
-
-<ul>
-{% for post in site.categories[{{ page.label|trim }}]%}
-    <li><a href="{{ post.url }}">{{ page.title }}</a></li>
-{% endfor %}
-</ul>

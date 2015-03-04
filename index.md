@@ -1,7 +1,8 @@
 ---
 layout: home
-title: Home
+title: 威明顿主恩堂 
 ---
+
 <h2> 年度主题：以谦卑束腰，以恩慈相待，以基督的心为心 </h2>
 
 <div class="row">
@@ -18,7 +19,8 @@ title: Home
     </div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="section-cell" onclick="top.location.href='/category/message/'"> 
+    <div class="section-cell"
+    onclick="top.location.href='/category/message.html'"> 
       <img src="http://media.wcec-home.org/image/message_1.jpg" class="section"/> <br/>
       <span class="label label-default">主日信息 </span> 每周主日录音
     </div>
