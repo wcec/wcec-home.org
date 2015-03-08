@@ -1,6 +1,7 @@
 ---
 layout: home
-title: 威明顿主恩堂 
+title: 威明顿主恩堂
+published: true
 ---
 
 <h2> 年度主题：以谦卑束腰，以恩慈相待，以基督的心为心 </h2>
@@ -27,7 +28,7 @@ title: 威明顿主恩堂
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4">
     <div class="section-cell" onclick="top.location.href='/category/ganlin/'"> 
-      <img src="http://media.wcec-home.org/image/ganlin_1.png" class="section"/> <br/> 
+      <img src="http://media.wcec-home.org/doc/ganlin/ganlin_2015_1.png" class="section"/> <br/> 
       <span class="label label-info">甘霖期刊</span>
     </div>
   </div>
@@ -46,4 +47,3 @@ title: 威明顿主恩堂
   </div>
 </div>
 <span class="clear"/>
-
