@@ -18,3 +18,8 @@ body{font-size:14pt;}
 .label {font-size:120%;}
 
 #footer { text-align: center;}
+
+table {
+  padding: 1em;
+  border-spacing: 8px; 
+}
