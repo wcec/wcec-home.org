@@ -40,7 +40,7 @@ published: true
     </div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="section-cell" onclick="top.location.href='/category/music/'"> 
+    <div class="section-cell" onclick="top.location.href='/music/choir-video/'"> 
     <img src="http://media.wcec-home.org/image/piano_1.jpg" class="section"/> <br/> 
       <span class="label label-danger">教会献诗 </span>
     </div>
