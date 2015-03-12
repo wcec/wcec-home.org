@@ -9,14 +9,14 @@ published: true
 <div class="row">
   <div class="col-xs-12 col-sm-6 col-md-4">
     <div class="section-cell" onclick="top.location.href='/category/update/'"> 
-      <img src="http://media.wcec-home.org/image/UDFellowship_1.jpg" class="section"/> <br/>
+      <img src="http://media.wcec-home.org/image/recent_update.jpg" class="section"/> <br/>
       <span class="label label-success">近期更新</span>
     </div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4">
     <div class="section-cell" > 
       {% include event.html %}
-      <span class="label label-primary">近期活动 </span>
+      <span class="label label-primary">活动通知 </span>
     </div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4">

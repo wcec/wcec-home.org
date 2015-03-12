@@ -1,6 +1,5 @@
-<div id="content-related" class="sidebar">
+<div class="sidebar">
     <div id="search">
-
       <style type="text/css">
       @import url(http://www.google.com/cse/api/branding.css);
       </style>
@@ -26,7 +25,19 @@
           自定义搜索
         </div>
       </div>
-
+    </div>
+    <div>
+      <ul class="list-group"> 
+        <li class="list-group-item"> 近期更新 </li>
+        <li class="list-group-item"> 主日信息 </li>
+        <li class="list-group-item"> 聚会时间 </li>
+        <li class="list-group-item"> 教会献诗 </li>
+        <li class="list-group-item"> 甘霖期刊 </li>
+      </ul>
+    </div>
+    <div>
+       <p> <a href='{{page.previous.url}}'>{{page.previous.title}}</a> </p>
+       <p> <a href='{{page.next.url}}'>{{page.next.title}}</a> </p>
     </div>
 
 </div>

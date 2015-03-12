@@ -5,6 +5,10 @@ category: music
 tags: choir, music, adult_choir 
 ---
 
+### [诗班介绍]({% post_url /music/2000-01-01-choir-intro %}) ###
+
+### [2015 圣乐周练习曲目]({% post_url /music/2015-04-01-hymn-festival-2015 %}) ###
+
 真光普照
 -----------
 

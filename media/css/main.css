@@ -3,6 +3,7 @@ body{font-size:14pt;}
 .clear{clear:both;}
 
 #homewrap {max-width:1400px;}
+#content-main {min-height:22em;}
 .section-cell {background-color: rgba(255, 255, 255, 0.2);
     border-radius: 8px; 
     margin: 1em 0;
@@ -16,6 +17,8 @@ body{font-size:14pt;}
 .section-cell img {width:100%; height:auto;}
 
 .label {font-size:120%;}
+
+.sidebar {position:fixed;}
 
 #footer { text-align: center;}
 
