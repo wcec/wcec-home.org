@@ -1,13 +1,13 @@
 ---
 layout: section 
 title: 近期主日讲坛信息
-permalink: /category/message/
+permalink: /category/message-by-date/
 ---
 
 近期主日讲坛信息
 ==================
 <ul class="list-group">
- {% for post in site.categories['message'] offset: 0 limit: 8 %}
+ {% for post in site.categories['message'] %}
      <li class="list-group-item"> 
       {{post.date | date_to_string}}: {{ post.title }} {{ post.content }}
      </li>
