@@ -6,9 +6,16 @@ title: 教会介绍
 教会介绍
 ==========
 
-威明頓主恩堂Wilmington Community Evangelical Church (WCEC) 是在1981年初在特拉華州威明頓(Wilmington, Delaware) 成立的華人基督教会，其成員多為專業人士，大學教職員，研究院學生，家庭主婦，餐館業及其它一般信徒，他們來自不同的地區，包括中國大陸、臺灣、遠東和世界其他地區，也有生長在北美的華裔子弟。
+威明顿主恩堂Wilmington Community Evangelical Church (WCEC)
+是在1981年初在特拉华州威明顿(Wilmington, Delaware)
+成立的华人基督教会，其成员多为专业人士，大学教职员，研究院学生，家庭主妇，餐馆业及其他一般信徒，他们来自不同的地区，包括中国大陆、台湾、远东和世界其他地区，也有生长在北美的华裔子弟。
 
-我們的信仰是單一的依據聖經，本著榮神益人的原則，注重信徒靈命成長，廣傳基督福音，以平安和喜樂的生活彰顯上帝的恩典。主恩堂為回應神大使命的托付，於2000年4月23日復活節於賓州 West Chester, PA 地區成立分堂 – [威徹斯特主恩堂 (West Chester Chinese Evangelical Church)][WCCEC]。 主恩堂又於2007年9月9日在特拉華州Bear地區成立另一分堂 - [新城主恩堂 (New Castle Chinese Evangelical Church)][NCCEC]。 
+我们的信仰是单一的依据圣经，本着荣神益人的原则，注重信徒灵命成长，广传基督福音，以平安和喜乐的生活彰显上帝的恩典。主恩堂为回应神大使命的托付，于2000年4月23日复活节于宾州West
+Chester, PA 地
+区成立分堂– [威彻斯特主恩堂(West Chester Chinese Evangelical
+Church)][WCCEC]。主恩堂又于2007年9月9日在特拉华州Bear地区成立另一分堂-
+[新城主恩堂(New Castle Chinese Evangelical Church)][NCCEC]。
+
 
 我们的信仰
 ==========
@@ -30,5 +37,5 @@ title: 教会介绍
  
 
  
- [WCCEC]: http://www.wccec.org/
- [NCCEC]: http://www.nccec.org/
+[WCCEC]: http://www.wccec.org/
+[NCCEC]: http://www.nccec.org/
