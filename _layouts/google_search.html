@@ -8,23 +8,26 @@
     {% include top-nav.html %}
      
     <div id="columnwrap" class="container-fluid">
-    <div class="row">
-    <div id="content-main" class="col-sm-8 col-xs-12">
+      <div class="row">
+        <div id="content-main" class="col-xs-12 col-sm-9 col-md-8 ">
 
-      <div id="cse-search-results"></div>
-      <script type="text/javascript">
-        var googleSearchIframeName = "cse-search-results";
-        var googleSearchFormName = "cse-search-box";
-        var googleSearchFrameWidth = 800;
-        var googleSearchDomain = "www.google.com";
-        var googleSearchPath = "/cse";
-      </script>
-      <script type="text/javascript" src="http://www.google.com/afsonline/show_afs_search.js"></script>
+          <div id="cse-search-results"></div>
+          <script type="text/javascript">
+            var googleSearchIframeName = "cse-search-results";
+            var googleSearchFormName = "cse-search-box";
+            var googleSearchFrameWidth = 800;
+            var googleSearchDomain = "www.google.com";
+            var googleSearchPath = "/cse";
+          </script>
+          <script type="text/javascript" src="http://www.google.com/afsonline/show_afs_search.js"></script>
 
+        </div>
+        <div id="content-related" class="col-xs-12 col-sm-3 col-md-4" >
+          {% include sidebar.html %}
+        </div>
+      </div>
+      {% include footer.html %}
     </div>
-    {% include sidebar.html %}
-    </div>
-    {% include footer.html %}
 </div>
 
   {% include google_analytics.html %}
