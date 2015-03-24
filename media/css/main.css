@@ -22,7 +22,17 @@ body{font-size:14pt;}
 
 #footer { text-align: center;}
 
-table {
+#content-main table {
   padding: 1em;
-  border-spacing: 8px; 
+/*  border-spacing: 8px;  */
+  border-collapse: collapse;
+  border-spacing: 0;
+  border:1px solid #ddd;
+}
+
+#content-main th{
+  border:1px solid #ddd;
+}
+#content-main td{
+  border:1px solid #ddd;
 }

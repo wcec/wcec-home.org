@@ -23,7 +23,7 @@ published: true
     <div class="section-cell"
     onclick="top.location.href='/category/message/'"> 
       <img src="http://media.wcec-home.org/image/message_1.jpg" class="section"/> <br/>
-      <span class="label label-default">主日信息 </span> 每周主日录音
+      <span class="label label-default">主日信息 </span> 
     </div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4">
