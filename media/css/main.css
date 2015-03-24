@@ -64,3 +64,8 @@ body{font-size:14pt;}
   border-bottom-right-radius: 4px;
   margin-bottom: 0;
 }
+
+img.thumbnail-size {
+  height:100px;
+  width:auto;
+}

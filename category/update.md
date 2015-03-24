@@ -12,3 +12,7 @@ permalink: /category/update/
  * [神学课程](http://media.wcec-home.org/doc/class/201503_biblical_ethics_flyer.pdf) (PDF)
 
 
+----
+
+ * [2015 活动记录]({% post_url /event/2015-03-01-2015-event %})
+
