@@ -5,7 +5,7 @@ permalink: /category/ganlin/
 ---
 <h1> 甘霖期刊 </h1>
 
-<a href="{{site.url}}/doc/ganlin/Ganlin_2015_01.pdf"> ![]({{site.media_url}}/doc/ganlin/Ganlin_2015_01.png)
+<a href="{{site.media_url}}/doc/ganlin/Ganlin_2015_01.pdf"> ![]({{site.media_url}}/doc/ganlin/Ganlin_2015_01.png)
 2015甘霖1月刊电子版 PDF下载 
 </a>
 
@@ -35,4 +35,3 @@ permalink: /category/ganlin/
     <li class="list-group-item"><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-
