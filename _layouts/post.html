@@ -8,7 +8,7 @@ layout: default
   {% if page.categories != empty  %}
   分类:
   {% for category in page.categories %}
-    /<a href="/category/{{category|trim}}.html">{{ category }}</a>
+    /<a href="/category/{{category|trim}}">{{ category }}</a>
   {% endfor %}
   {% endif %}
   <br/>
@@ -16,7 +16,7 @@ layout: default
   {% if page.tags != empty %}
   标签:
   {% for tag in page.tags %}
-    <span class="tag"> <a href="/tag/{{tag|trim}}.html">{{ tag }}</a> </span>
+    <span class="tag"> <a href="/tag/{{tag|trim}}">{{ tag }}</a> </span>
   {% endfor %}
   {% endif %}
 

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 见证 
-permalink: /tag/见证/
+title: 活动 
+permalink: /tag/event/
 ---
 
-所有关于"见证"的文章
+所有关于"event"的文章
 
 <ul>
-{% for post in site.tags['见证'] %}
+{% for post in site.tags['event'] %}
     <li><a href="{{ post.url }}">{{ post.title }} </a> -- {{ post.excerpt }} </li>
 {% endfor %}
 </ul>
