@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 主恩堂献诗
+title: 主恩堂成人诗班献诗
 category: music
 tags: [choir, music, adult_choir]
 published: true
@@ -11,17 +11,8 @@ published: true
  * [儿童诗班献诗]({% post_url /children/2015-03-01-children-choir-video %})
  * [成人诗班献诗]({% post_url /music/2015-04-02-adult-choir %})
 
-
-I see you, God
-----------------
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/f5-Fhh4IjgQ" frameborder="0"
-allowfullscreen></iframe>
-
-真光普照
------------
-
+2015-03 真光普照
+-------------------
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/Dip4S37Zb6c" frameborder="0"
 allowfullscreen></iframe>

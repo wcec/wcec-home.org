@@ -7,9 +7,9 @@ permalink: /category/update/
 近期更新 
 =========
 
- * [主日信息](/category/message)
- * [教会献诗]({% post_url /music/2015-03-01-choir-video %})
- * [神学课程](http://media.wcec-home.org/doc/class/201503_biblical_ethics_flyer.pdf) (PDF)
+ * [儿童诗班献诗]({% post_url /children/2015-03-01-children-choir-video %})
+ * [成人诗班献诗]({% post_url /music/2015-04-02-adult-choir %})
+ * [儿童主日学培训]({% post_url /children/2015-04-01-children-sunday-school-training %})
 
 
 ----
