@@ -9,7 +9,7 @@ published: true
 <div class="row">
   <div class="col-xs-12 col-sm-6 col-md-4">
     <div class="section-cell" onclick="top.location.href='/category/update/'"> 
-      <img src="http://media.wcec-home.org/image/recent_update.jpg" class="section"/> <br/>
+      <img src="http://media.wcec-home.org/image/recent_update.jpg"/>
       <span class="label label-success">近期更新</span>
     </div>
   </div>
@@ -22,7 +22,7 @@ published: true
   <div class="col-xs-12 col-sm-6 col-md-4">
     <div class="section-cell"
     onclick="top.location.href='/category/message/'"> 
-      <img src="http://media.wcec-home.org/image/message_1.jpg" class="section"/> <br/>
+      <img src="http://media.wcec-home.org/image/message_1.jpg" /> <br/>
       <span class="label label-default">主日信息 </span> 
     </div>
   </div>
