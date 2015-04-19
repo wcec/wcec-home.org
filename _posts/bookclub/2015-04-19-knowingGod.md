@@ -1,3 +1,10 @@
+---
+layout: post
+title: 认识神 
+category: bookclub
+tag: bookclub
+---
+
 每季一书：2015年第1-2季
 认识神
 Knowing God
