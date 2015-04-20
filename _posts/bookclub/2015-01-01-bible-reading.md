@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 读经计划
+category: bookclub
+tag: bookclub
 ---
 
 
