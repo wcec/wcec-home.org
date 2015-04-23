@@ -1,7 +1,7 @@
 ---
 layout: section
 title:  甘霖
-permalink: /category/ganlin/
+permalink: /ganlin/
 ---
 <h1> 甘霖期刊 </h1>
 
