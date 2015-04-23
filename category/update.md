@@ -7,6 +7,12 @@ permalink: /category/update/
 近期更新 
 =========
 
+ * <a href="{{site.media_url}}/doc/ganlin/GanLin_2015_poster.pdf">
+        <img src="{{site.media_url}}/event/2015/20150615_ganlin.png"
+        alt="GanLin poster" class="img-thumbnail thumbnail-size">
+        甘霖期刊2015征稿
+   </a>
+ 
  * <a href="{{site.media_url}}/event/2015/20150423_sacred_music_festival_flyer.pdf">
            <img src="{{site.media_url}}/event/2015/20150423_music_festival.png"
            alt="Sacred Music Festival" class="img-thumbnail thumbnail-size">
