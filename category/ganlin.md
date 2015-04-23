@@ -8,7 +8,7 @@ permalink: /ganlin/
  * <a href="{{site.media_url}}/doc/ganlin/GanLin_2015_poster.pdf">
         <img src="{{site.media_url}}/event/2015/20150615_ganlin.png"
         alt="GanLin poster" class="img-thumbnail thumbnail-size">
-        甘霖期刊2015征稿
+        甘霖期刊2015夏季刊征稿
    </a>
  
  * <a href="{{site.media_url}}/doc/ganlin/Ganlin_2015_01.pdf"> 
