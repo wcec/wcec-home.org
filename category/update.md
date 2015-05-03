@@ -13,7 +13,7 @@ permalink: /category/update/
         甘霖期刊2015夏季刊征稿
    </a>
  
- * <a href="{{site.media_url}}/event/2015/20150423_sacred_music_festival_flyer.pdf">
+ * <a href="{% post_url /event/2015-04-23-sacred-music-festival %}">
            <img src="{{site.media_url}}/event/2015/20150423_music_festival.png"
            alt="Sacred Music Festival" class="img-thumbnail thumbnail-size">
    2015-04 23-25 圣乐周
@@ -25,8 +25,11 @@ permalink: /category/update/
    2015-05 29-31 退修会     
         </a>
         
- * [成人诗班献诗]({% post_url /music/2015-04-02-adult-choir %})
-
+ * <a href="{% post_url /music/2015-04-02-adult-choir %}">
+    <img src="http://media.wcec-home.org/image/piano_1.jpg" 
+        alt="choir" class="img-thumbnail thumbnail-size"> 
+      成人诗班献诗
+    </a>
 {% comment %}
 
  * [成人诗班献诗]({% post_url /music/2015-04-02-adult-choir %})
