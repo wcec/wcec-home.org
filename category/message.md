@@ -16,9 +16,11 @@ permalink: /category/message/
 
 ----
 
+更多讲道录音
+--------------
+
  * [按照日期分类](/category/message-by-date/)
  * 按照讲员分类
  * 按照主题分类
 
-----
 

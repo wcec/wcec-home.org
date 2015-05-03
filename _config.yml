@@ -6,6 +6,8 @@ name: wcec-home.org
 url: http://wcec-home.org
 media_url: http://media.wcec-home.org
 
+paginate: 10
+
 exclude: ['doc']
 
 gems:
