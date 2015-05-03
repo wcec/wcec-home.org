@@ -12,6 +12,7 @@ published: true
  * [成人诗班献诗]({% post_url /music/2015-04-02-adult-choir %})
 
 
+# 2015-04 23~25 [2015 圣乐周视频列表]({% post_url /event/2015-04-23-sacred-music-festival %}) #
 
 2015-04-05 哈利路亚
 =======================
