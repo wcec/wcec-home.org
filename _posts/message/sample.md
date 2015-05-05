@@ -6,4 +6,4 @@ tag: message
 permalink: /message/:year-:month-:day-:title
 ---
 
-[录音](http://media.wcec-home.org/audio/message/20141207_Li.mp3)  [PPT]() 经文:以弗所书1:1-14
+[录音]({% site.media_url %}/audio/message/20141207_Li.mp3)  [PPT]() 经文:以弗所书1:1-14
