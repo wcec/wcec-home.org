@@ -10,6 +10,7 @@ published: true
  * [2015 圣乐周练习曲目]({% post_url /music/2015-04-01-hymn-festival-2015 %})
  * [儿童诗班献诗]({% post_url /children/2015-03-01-children-choir-video %})
  * [成人诗班献诗]({% post_url /music/2015-04-02-adult-choir %})
+ * [教会活动Youtube列表](https://www.youtube.com/channel/UC2TZFslFrlgDF5lvSEbsloQ)
 
 
 # 2015-04 23~25 [2015 圣乐周视频列表]({% post_url /event/2015-04-23-sacred-music-festival %}) #
