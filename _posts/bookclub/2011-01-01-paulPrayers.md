@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 耶穌所傳的福音
+title: 保罗的祷告
 category: bookclub
 tag: bookclub
 ---
