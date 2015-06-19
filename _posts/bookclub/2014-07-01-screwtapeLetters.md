@@ -6,8 +6,11 @@ tag: bookclub
 ---
 
 每季一书：2014年第3季
+
 魔鬼家书
+
 The Screwtape Letters
+
 路易斯 (C. S. Lewis)
 
 魔鬼伎俩大揭秘！这是两个魔鬼之间的一系列通信，传授如何引诱人类远离上帝，落入地狱。
