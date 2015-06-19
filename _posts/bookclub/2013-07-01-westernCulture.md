@@ -6,9 +6,13 @@ tag: bookclub
 ---
 
 每季一书：2013年第三季
+
 前车可鉴  
+
 How Should We Then Live 
+
 The Rise and Decline of Western Thought and Culture  
+
 弗朗西斯.薛华   (Francis A. Schaeffer) 
 
 弗朗西斯.薛华的《前车可鉴》是为“将人类置于一切事物中心”的人文主义 所作的一首挽歌。作者以极其广阔的视野描述了人文主义的发展史及对西方思想文化的渗透，其对社会和历史的影响，以及由此而导致的人类悲剧。 

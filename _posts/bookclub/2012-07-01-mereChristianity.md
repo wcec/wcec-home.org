@@ -6,8 +6,11 @@ tag: bookclub
 ---
 
 每季一书：2012年7-9月
+
 返璞归真
+
 Mere Christianity 
+
 鲁益师  (C. S. Lewis)
 
 鲁益师的经典之作《返璞归真》，是一本每个当代基督徒都应该已经读过，却又值得一读再读的书。如果你注意到著名基督教作家杨腓力（Philip Yancy），牧师提姆•凯勒（Timothy Keller），基因科学家柯林斯（Francis Collins），以及众多神学家、教授，都在他们的著作里大量引用鲁益师， 应该对他的影响力可以略见一斑了。而寇尔森（Charles Colson）的狱中信主，也正是受了这本书的影响。 

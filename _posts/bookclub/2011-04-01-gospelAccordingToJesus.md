@@ -6,8 +6,11 @@ tag: bookclub
 ---
 
 每季一书：2011年4-6月
+
 耶穌所傳的福音
+
 The Gospel According to Jesus 
+
 约翰.麦卡瑟  (John MacArther) 
 
 今天我们传福音，常常不知不觉中在一些关键点上含糊，使之听 

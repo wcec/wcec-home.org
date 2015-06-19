@@ -6,8 +6,11 @@ tag: bookclub
 ---
 
 每季一书：2013年第二季
+
 为何是他 
+
 The Reason for God: Belief in an Age of Skepticism 
+
 提姆. 凯乐  (Tim Keller) 
 
 “All doubts, however skeptical and cynical they may seem, are really a set of alternate beliefs. You cannot doubt Belief A except from a position of faith in Belief B.” 
