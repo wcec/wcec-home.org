@@ -13,6 +13,8 @@ How Now Shall We Live
 
 寇尔森、皮尔丝 (Charles Colson and Nancy Pearcey ) 
 
+<img src="http://media.wcec-home.org/image/bookclub/howNowShallWeLive.png" >
+
 面对社会上层出不穷的思潮、理论、政治运动，你作为基督徒是否能做出适当的回应？你能够向同事、邻居清楚地解释为什么耶稣基督是唯一的拯救，而不被认为是自大狭隘吗？当你的孩子需要面对无神论的教授、同学的问题和挑战时，你确定他们能够坚守自己的信仰吗？ 
 
 我们的信仰不是只限于教会四面围墙之内的私人事务，它是一套完整的架构，一个世界观，让我们明白这个世界的真相，并在生活的各个层面体现出那创造者的心意。 

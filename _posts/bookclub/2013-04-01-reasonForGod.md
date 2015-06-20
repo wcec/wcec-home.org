@@ -13,6 +13,8 @@ The Reason for God: Belief in an Age of Skepticism
 
 提姆. 凯乐  (Tim Keller) 
 
+<img src="http://media.wcec-home.org/image/bookclub/reasonForGod.png" >
+
 “All doubts, however skeptical and cynical they may seem, are really a set of alternate beliefs. You cannot doubt Belief A except from a position of faith in Belief B.” 
 
 身处越来越为两极化的世界，四周环绕着各式各样的怀疑，我们当如何与此时此地的文化交锋？凯勒给我们的榜样是，他乐意走进文化与城市当中，与流行的思潮对话，挺身而出，作信仰的护教者。有媒体工作者称誉他为“廿一世纪的鲁益师”。面对无神论的挑战，他写了“为何是他”一书，温和而理性地与教外人士对话，并肯定福音信仰的可信性。在这本书中，凯勒首先尝试化解非基督徒对基督教信仰的疑虑，他从预设立场著手，在分析之前，总是先用同情的态度解释对方的立场，解除对方的抵触情绪，让人感觉平易近人，双方可以在平等的地位上对话、辩论。进而以严谨的文章与之讨论，去阐明基督教信仰的真理。 

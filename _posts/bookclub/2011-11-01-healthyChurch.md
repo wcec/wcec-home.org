@@ -11,6 +11,8 @@ tag: bookclub
 
 狄马可 (Mark Dever) 
 
+<img src="http://media.wcec-home.org/image/bookclub/healthyChurch.png" >
+
 没有一个教会是完美的。但感谢神, 有些教会是健康的。有哪些 
 指标可以用来检测一个教会的健康程度呢？今天流行的成功指标似乎 
 是适应、回应时代与会友的需要，能吸引人，教会在人数上增长。但 

@@ -13,6 +13,8 @@ The Gospel According to Jesus
 
 约翰.麦卡瑟  (John MacArther) 
 
+<img src="http://media.wcec-home.org/image/bookclub/gospelAccordingToJesus.png" >
+
 今天我们传福音，常常不知不觉中在一些关键点上含糊，使之听 
 起来尽可能的简单且吸引人。我们可能常告诉人，什么都不用做，只要 
 相信就可以得到永生了，却不常提到认罪与悔改。我们可能更愿意笼统 

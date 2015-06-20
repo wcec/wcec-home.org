@@ -15,6 +15,8 @@ The Rise and Decline of Western Thought and Culture
 
 弗朗西斯.薛华   (Francis A. Schaeffer) 
 
+<img src="http://media.wcec-home.org/image/bookclub/westernCulture.png" >
+
 弗朗西斯.薛华的《前车可鉴》是为“将人类置于一切事物中心”的人文主义 所作的一首挽歌。作者以极其广阔的视野描述了人文主义的发展史及对西方思想文化的渗透，其对社会和历史的影响，以及由此而导致的人类悲剧。 
 
 在弗朗西斯.薛华的笔下，罗马帝国是一个残酷而腐朽的帝国。由于他们信仰的众神是有限的，无法作为承载文明、道德的强大基础，罗马人变得残暴、堕落、冷漠，并最终走向灭亡。 
