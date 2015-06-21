@@ -12,6 +12,8 @@ published: true
  * [成人诗班献诗]({% post_url /music/2015-04-02-adult-choir %})
 
 
+ * 2015-06-14 [和平小组献诗 -- 耶和华祝福满满](https://youtu.be/IjLnK4sIS60)
+ * 2015 Retreat [遮蔽我](https://youtu.be/xk4r45upMB0)
  * 2015-04 23~25 [圣乐周视频列表]({% post_url /event/2015-04-23-sacred-music-festival %}) 
  * 2015-04-05 [哈利路亚](http://youtu.be/HevqVManAa0)
  * 2015-04-03 [若无十架](https://youtu.be/lUpaEmOlJ54)
