@@ -12,6 +12,17 @@ published: true
  * [成人诗班献诗]({% post_url /music/2015-04-02-adult-choir %})
  * [教会活动Youtube列表](https://www.youtube.com/channel/UC2TZFslFrlgDF5lvSEbsloQ)
 
+2015-06-14 和平小组献诗 -- 耶和华祝福满满
+======================
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/IjLnK4sIS60" frameborder="0"
+allowfullscreen></iframe>
+
+2015 Retreat - 遮蔽我
+=======================
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/xk4r45upMB0" frameborder="0"
+allowfullscreen></iframe>
 
 # 2015-04 23~25 [2015 圣乐周视频列表]({% post_url /event/2015-04-23-sacred-music-festival %}) #
 
