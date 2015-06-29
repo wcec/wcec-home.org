@@ -41,11 +41,11 @@ tags: sunday_school
 這個夏天，讓我們一起思想聖徒必修學分。不要小看這些基礎工夫，覺得這是早都知道的老生常談。當這些操練真正在我們每一天生活中落實的時候，必成為我們勝過世俗漩渦的途徑。
 
 
-1 學習忘我的自由  [录音](http://media.wcec-home.org/audio/sundayschool/Credit06142015.mp3)
+1 學習忘我的自由  [录音](http://media.wcec-home.org/audio/sundayschool/Credit06142015.mp3)  [讲义](http://media.wcec-home.org/doc/sundayschool/Credit06142015.pdf)
 
-2 學習喜怒哀樂  [录音](http://media.wcec-home.org/audio/sundayschool/Credit06212015.mp3)
+2 學習喜怒哀樂  [录音](http://media.wcec-home.org/audio/sundayschool/Credit06212015.mp3)  [讲义](http://media.wcec-home.org/doc/sundayschool/Credit06212015.pdf)
 
-3 學習心口如一
+3 學習心口如一  [录音](http://media.wcec-home.org/audio/sundayschool/Credit06282015.mp3)
 
 4 學習快樂上班
 
