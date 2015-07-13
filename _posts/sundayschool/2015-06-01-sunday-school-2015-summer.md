@@ -49,7 +49,7 @@ tags: sunday_school
 
 4 學習快樂上班  [录音](http://media.wcec-home.org/audio/sundayschool/Credit07052015.mp3)  [讲义](http://media.wcec-home.org/doc/sundayschool/Credit4.pdf)
 
-5 學習輕省生活
+5 學習輕省生活  [录音](http://media.wcec-home.org/audio/sundayschool/Credit07122015.mp3)
 
 6 學習清理內務
 
