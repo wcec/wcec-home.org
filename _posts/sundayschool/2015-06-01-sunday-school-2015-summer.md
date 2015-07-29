@@ -51,9 +51,9 @@ tags: sunday_school
 
 5 學習輕省生活  [录音](http://media.wcec-home.org/audio/sundayschool/Credit07122015.mp3)  [讲义](http://media.wcec-home.org/doc/sundayschool/Credit07122015.pdf)
 
-6 學習清理內務
+6 學習重新得力  [录音](http://media.wcec-home.org/audio/sundayschool/Credit07192015.mp3)  [讲义](http://media.wcec-home.org/doc/sundayschool/Credit07192015.pdf)
 
-7 學習重新得力
+7 學習清理內務  [录音](http://media.wcec-home.org/audio/sundayschool/Credit07262015.mp3)  [讲义](http://media.wcec-home.org/doc/sundayschool/Credit07262015.pdf)
 
 8 學習對準焦點
 
