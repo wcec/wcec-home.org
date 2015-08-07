@@ -55,7 +55,7 @@ tags: sunday_school
 
 7 學習清理內務  [录音](http://media.wcec-home.org/audio/sundayschool/Credit07262015.mp3)  [讲义](http://media.wcec-home.org/doc/sundayschool/Credit07262015.pdf)
 
-8 學習對準焦點
+8 學習對準焦點  [录音](http://media.wcec-home.org/audio/sundayschool/Credit08022015.mp3) 
 
 9 學習束上毛巾
 
