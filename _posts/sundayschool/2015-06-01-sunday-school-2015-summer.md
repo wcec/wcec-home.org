@@ -57,7 +57,7 @@ tags: sunday_school
 
 8 學習對準焦點  [录音](http://media.wcec-home.org/audio/sundayschool/Credit08022015.mp3) 
 
-9 學習束上毛巾
+9 學習束上毛巾  [录音](http://media.wcec-home.org/audio/sundayschool/Credit08092015.mp3) 
 
 10 學習凡物公用
 
