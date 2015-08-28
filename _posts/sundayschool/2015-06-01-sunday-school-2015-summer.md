@@ -59,7 +59,7 @@ tags: sunday_school
 
 9 學習束上毛巾  [录音](http://media.wcec-home.org/audio/sundayschool/Credit08092015.mp3)   [讲义](http://media.wcec-home.org/doc/sundayschool/Credit08092015.pdf)
 
-10 學習凡物公用 [录音](http://media.wcec-home.org/audio/sundayschool/Credit08232015.mp3)   [讲义](http://media.wcec-home.org/doc/sundayschool/Credit08092015.pdf)
+10 學習凡物公用 [录音](http://media.wcec-home.org/audio/sundayschool/Credit08232015.mp3)   [讲义](http://media.wcec-home.org/doc/sundayschool/Credit08232015.pdf)
 
 11 學習活出所信
 
