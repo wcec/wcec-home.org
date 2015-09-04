@@ -61,7 +61,7 @@ tags: sunday_school
 
 10 學習凡物公用 [录音](http://media.wcec-home.org/audio/sundayschool/Credit08232015.mp3)   [讲义](http://media.wcec-home.org/doc/sundayschool/Credit08232015.pdf)
 
-11 學習活出所信
+11 學習活出所信 [录音](http://media.wcec-home.org/audio/sundayschool/Credit08302015.mp3)   [讲义](http://media.wcec-home.org/doc/sundayschool/Credit08302015.pdf)
 
 
 <a name="2" />
