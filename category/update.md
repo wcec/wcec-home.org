@@ -8,13 +8,13 @@ permalink: /category/update/
 =========
 
 * <a href="{% post_url /message/2015-10-18-20151018_Feng %}">
-  <img src="{{ site.media_url }}image/message_1.jpg"
-        alt="retreat" class="img-thumbnail thumbnail-size"/> 
+  <img src="{{ site.media_url }}/image/message_1.jpg"
+        alt="message" class="img-thumbnail thumbnail-size"/> 
     2015-10-16日至18日 冯秉程牧师布道会
    </a>
 
-* <a href="{% post_url /sundayschool/2015-08-15-chou %}"><img src="{{ site.media_url }}image/message_1.jpg"
-        alt="retreat" class="img-thumbnail thumbnail-size"/>  周功和牧师护教学讲座 </a>
+* <a href="{% post_url /sundayschool/2015-08-15-chou %}"><img src="{{ site.media_url }}/image/message_1.jpg"
+        alt="message" class="img-thumbnail thumbnail-size"/>  周功和牧师护教学讲座 </a>
  * <a href="{% post_url /sundayschool/2015-06-01-sunday-school-2015-summer %}"> 2015夏季主日学课程  </a>
  * <a href="{{site.media_url}}/doc/ganlin/GanLin_2015_poster.pdf">
         <img src="{{site.media_url}}/event/2015/20150615_ganlin.png"
