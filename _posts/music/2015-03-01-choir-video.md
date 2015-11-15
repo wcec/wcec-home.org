@@ -14,7 +14,7 @@ published: true
 
 近期上传
 ===========
-
+ * 2015-11-08 [Children choir - You are the way](https://youtu.be/oEIFiX6Ez-c)
  * 2015-10-25 [主的圣手](https://youtu.be/furaTGdPJEs)
  * 2015-10-18 [我要坚信到永远](https://youtu.be/CycpgmEFj2M)
  * 2015-09-27 [有爱的心](https://youtu.be/sLgGbcIOQiE)
