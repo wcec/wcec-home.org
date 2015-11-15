@@ -9,6 +9,13 @@ tags: [children, video]
  * [成人诗班献诗]({% post_url /music/2015-04-02-adult-choir %})
  * [儿童主日学培训]({% post_url /children/2015-04-01-children-sunday-school-training %})
 
+
+2015-11-08 You are the way
+===============================================
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oEIFiX6Ez-c" frameborder="0" allowfullscreen></iframe>
+
+
 2015-05-10 Asaph Choir: 母亲节献诗 
 ===============================================
 
