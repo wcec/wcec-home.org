@@ -13,9 +13,7 @@ tags: [children, video]
 2015-11-22 Asaph Choir: 云上太阳, 我的灯需要油 
 ===============================================
 
-<iframe width="560" height="315"
-src="https://www.youtu.be/ZO86FGTqYWc" frameborder="0"
-allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/ZO86FGTqYWc" frameborder="0" allowfullscreen></iframe>
 
 
 2015-11-08 You are the way
