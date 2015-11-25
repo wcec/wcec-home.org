@@ -10,14 +10,6 @@ tags: [children, video]
  * [儿童主日学培训]({% post_url /children/2015-04-01-children-sunday-school-training %})
 
 
-2015-11-22 Asaph Choir: 云上太阳, 我的灯需要油 
-===============================================
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/XsksG7TaQs8" frameborder="0"
-allowfullscreen></iframe>
-
-
 2015-11-08 You are the way
 ===============================================
 
