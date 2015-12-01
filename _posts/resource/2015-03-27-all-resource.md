@@ -1,10 +1,13 @@
 ---
 layout: post 
-title: 资源列表
+title: 常用链接
 category: resource
 tag: [resource,music]
 ---
 
+文档
+======
+ * [Google Drive - 周报和主日敬拜PPT](https://drive.google.com/open?id=0B66cODim0szONTc2dFJUMGJwaDg)
 
 音乐相关
 =========
