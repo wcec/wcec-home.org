@@ -7,12 +7,13 @@ permalink: /category/update/
 近期更新 
 =========
 
-* <a href="{% post_url /message/2015-10-18-20151018_Feng %}">
+* <a href="/bookclub/bible-reading/">
   <img src="{{ site.media_url }}/image/message_1.jpg"
         alt="message" class="img-thumbnail thumbnail-size"/> 
-    2015-10-16日至18日 冯秉程牧师布道会
-   </a>
+    2016 读经计划 
+  </a>
 
+{% comment %}
 * <a href="{% post_url /sundayschool/2015-08-15-chou %}"><img src="{{ site.media_url }}/image/message_1.jpg"
         alt="message" class="img-thumbnail thumbnail-size"/>  周功和牧师护教学讲座 </a>
  * <a href="{% post_url /sundayschool/2015-06-01-sunday-school-2015-summer %}"> 2015夏季主日学课程  </a>
@@ -39,7 +40,6 @@ permalink: /category/update/
         alt="choir" class="img-thumbnail thumbnail-size"> 
       成人诗班献诗
     </a>
-{% comment %}
 
  * [成人诗班献诗]({% post_url /music/2015-04-02-adult-choir %})
  * [儿童诗班献诗]({% post_url /children/2015-03-01-children-choir-video %})
