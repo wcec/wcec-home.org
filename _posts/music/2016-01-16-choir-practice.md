@@ -6,7 +6,7 @@ tags: choir, music
 ---
 
  * 万福泉源 [
-  [soprano]({{ site.media_url }}/audio/choir/come_thou_fount_of_every_blessing-Part-alto.mp3 )
+  [soprano]({{ site.media_url }}/audio/choir/come_thou_fount_of_every_blessing-Part-sop.mp3 )
  | [alto]({{ site.media_url }}/audio/choir/come_thou_fount_of_every_blessing-Part-alto.mp3 )
   ]
 
