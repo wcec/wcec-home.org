@@ -22,16 +22,11 @@ class="vspace">自周從迪、楊慧容夫婦搬來之後，更為擴大，練�
 最上好獻給神。神也紀念這群願意獻上「五餅二魚」的弟兄姐妹，詩班已在本堂舉辦多年『音樂佈道會』，經由詩歌，演劇來帶出福音真理，讓福音種子寓詩歌深埋
 慕道者心中；同樣地，也應著在賓州、馬利蘭州和賓州一些教會之邀請，將福音散播出去.
 </p>
+
 <h2>资源</h2>
-<ul><li><a class="wikilink"
-href="http://wcec-home.org/music/choir-recording">练习曲目录音 Practice
-recording list</a>
-</li>
 
-<li><a class="wikilink" href="../hymn-festival-2015/">2015 圣乐周练习曲目</a> </li>
+ * [练习曲目录音 Practice recording list]({% post_url /music/2016-01-16-choir-practice %}) 
+ * <a class="wikilink" href="../hymn-festival-2015/">2015 圣乐周练习曲目</a> 
 
-<!-- <li><a class="wikilink" href="http://wcec-home.org/choir/Hymn">Hymn
-Stories 圣诗故事</a>
-</li>
--->
-</ul>
+<!-- <li><a class="wikilink" href="http://wcec-home.org/choir/Hymn">Hymn Stories 圣诗故事</a> </li> -->
+
