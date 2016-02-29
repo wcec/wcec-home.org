@@ -16,7 +16,7 @@ permalink: /category/update/
 {% comment %}
 * <a href="{% post_url /sundayschool/2015-08-15-chou %}"><img src="{{ site.media_url }}/image/message_1.jpg"
         alt="message" class="img-thumbnail thumbnail-size"/>  周功和牧师护教学讲座 </a>
- * <a href="{% post_url /sundayschool/2015-06-01-sunday-school-2015-summer %}"> 2015夏季主日学课程  </a>
+ * <a href="{% post_url /sundayschool/2015-06-01-sunday-school-2016-spring %}"> 2016春季主日学课程  </a>
  * <a href="{{site.media_url}}/doc/ganlin/GanLin_2015_poster.pdf">
         <img src="{{site.media_url}}/event/2015/20150615_ganlin.png"
         alt="GanLin poster" class="img-thumbnail thumbnail-size">
