@@ -13,7 +13,7 @@ tags: [children, video]
 2016-03-13 Asaph Choir: 亚萨诗班献诗
 ===============================================
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=dINocOlZplo" frameborder="0" 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dINocOlZplo" frameborder="0" 
 allowfullscreen></iframe>
 
 2015-11-22 Asaph Choir: 云上太阳, 我的灯需要油
