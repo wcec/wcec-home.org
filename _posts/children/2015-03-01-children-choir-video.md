@@ -10,6 +10,12 @@ tags: [children, video]
  * [儿童主日学培训]({% post_url /children/2015-04-01-children-sunday-school-training %})
 
 
+2016-03-13 Asaph Choir: 亚萨诗班献诗
+===============================================
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=dINocOlZplo" frameborder="0" 
+allowfullscreen></iframe>
+
 2015-11-22 Asaph Choir: 云上太阳, 我的灯需要油
 ===============================================
 
