@@ -14,6 +14,7 @@ published: true
 
 近期上传
 ===========
+ * 2016-03-13 [Children choir - 亚萨诗班献诗](https://youtu.be/dINocOlZplo)
  * 2015-11-22 [Children choir - 云上太阳, 我的灯需要油](https://youtu.be/ZO86FGTqYWc)
  * 2015-11-08 [Children choir - You are the way](https://youtu.be/oEIFiX6Ez-c)
  * 2015-10-25 [主的圣手](https://youtu.be/furaTGdPJEs)
