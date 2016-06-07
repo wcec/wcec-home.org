@@ -1,5 +1,4 @@
 markdown: kramdown
-highlighter: pygments
 permalink: /:categories/:title
 
 name: wcec-home.org
