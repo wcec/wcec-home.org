@@ -1,4 +1,7 @@
 markdown: kramdown
+
+highliter: rouge
+
 permalink: /:categories/:title
 
 name: wcec-home.org
