@@ -7,10 +7,10 @@ permalink: /category/update/
 近期更新 
 =========
 
-* <a href="/bookclub/bible-reading/">
+* <a href="/bookclub/bible-reading">
   <img src="{{ site.media_url }}/image/message_1.jpg"
         alt="message" class="img-thumbnail thumbnail-size"/> 
-    2016 读经计划 
+    2017 读经计划 
   </a>
 
 {% comment %}
