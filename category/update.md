@@ -9,10 +9,10 @@ permalink: /category/update/
 
 * 1/6/2017 - Marriage Seminar - Pastor Vaughn - 
   <a href="http://media.wcec-home.org/audio/message/20170106-marriage-1.mp3" target="_blank">
-   Segment 1 
+   segment 1 
   </a>
   <a href="http://media.wcec-home.org/audio/message/20170106-marriage-2.mp3" target="_blank">
-   &nbsp;&nbsp;&nbsp;Segment 2 
+   &nbsp;&nbsp;&nbsp;segment 2 
   </a>
 
 
