@@ -7,8 +7,9 @@ permalink: /category/update/
 近期更新 
 =========
 
-* <a href="http://media.wcec-home.org/audio/message/20170106-marriage-1.mp3">
-    1/6/2017 - Marriage Seminar - Pastor Vaughn - Segment 1 Audio
+* 1/6/2017 - Marriage Seminar - Pastor Vaughn - 
+  <a href="http://media.wcec-home.org/audio/message/20170106-marriage-1.mp3">
+   Segment 1 Audio
   </a>
 
 
