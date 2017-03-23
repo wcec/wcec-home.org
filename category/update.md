@@ -9,7 +9,7 @@ permalink: /category/update/
 
 * 3/22/2017 -
   <a href="https://1drv.ms/b/s!AqLDbY3r4i9Uhgs5FsYjdgwi5jkL" target="_blank">
-   黃長老紀念文集 (Rembering Elder Huang Collection)  
+   黃長老紀念文集 (Remebering Elder Huang Collection)  
   </a>
 
 
