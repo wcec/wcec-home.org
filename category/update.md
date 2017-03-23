@@ -7,6 +7,12 @@ permalink: /category/update/
 近期更新 
 =========
 
+* 3/22/2017 -
+  <a href="https://1drv.ms/b/s!AqLDbY3r4i9Uhgs5FsYjdgwi5jkL" target="_blank">
+   黃長老紀念文集 (Rembering Elder Huang Collection)  
+  </a>
+
+
 * 1/6/2017 - Marriage Seminar - Pastor Vaughn - 
   <a href="http://media.wcec-home.org/audio/message/20170106-marriage-1.mp3" target="_blank">
    segment 1 
