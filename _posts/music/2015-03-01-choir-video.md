@@ -14,6 +14,9 @@ published: true
 
 近期上传
 ===========
+ * 2016-03-13 [Adult choir - 純真的心歡欣](https://youtu.be/3BTMytGAo8Y)
+ * 2016-03-13 [UD 团契献诗 - 愛祢到底](https://youtu.be/xebuqZO5gd4)
+ * 2016-03-13 [Adult choir - 虔誠獻主](https://youtu.be/OEQnIZ1xBWg)
  * 2016-03-13 [Children choir - 亚萨诗班献诗](https://youtu.be/dINocOlZplo)
  * 2015-11-22 [Children choir - 云上太阳, 我的灯需要油](https://youtu.be/ZO86FGTqYWc)
  * 2015-11-08 [Children choir - You are the way](https://youtu.be/oEIFiX6Ez-c)
