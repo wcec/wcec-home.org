@@ -1,4 +1,3 @@
-
 ---
 layout: post 
 title: UD團契活動 (2017 八月 - 十月)  
