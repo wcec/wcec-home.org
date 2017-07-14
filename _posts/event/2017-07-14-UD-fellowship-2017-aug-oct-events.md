@@ -6,5 +6,5 @@ categories: event
 tags: event 
 ---
 
-![2017 UD團契活動 ]({{site.media_url}}/event/2016/ud-2017.jpg)
+![2017 UD團契活動 ]({{site.media_url}}/event/2017/ud-2017.jpg)
 
