@@ -6,7 +6,7 @@ tags: event
 ---
 
 
-## [英文牧师寻牧启事](http://media.wcec-home.org/event/position/position_description_WCEC_EM_pastor.2015.pdf) (PDF)
+## [英文牧师寻牧启事](https://drive.google.com/open?id=0B66cODim0szOQ3JtZnhoRDNOYkE) (PDF)
 
 
 
