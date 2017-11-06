@@ -12,43 +12,61 @@ published: true
 </h3>
 -->
 <div class="row">
-  <div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="section-cell" onclick="top.location.href='/category/update/'"> 
-      <img src="http://media.wcec-home.org/image/recent_update.jpg"/>
-      <span class="label label-success">近期更新</span>
-    </div>
-  </div>
-  <div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="section-cell" > 
-      {% include event.html %}
-      <span class="label label-primary">活动通知 </span>
-    </div>
-  </div>
-  <div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="section-cell"
-    onclick="top.location.href='/category/message/'"> 
-      <img src="http://media.wcec-home.org/image/message_1.jpg" /> <br/>
-      <span class="label label-default">主日信息 </span> 
-    </div>
-  </div>
-  <div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="section-cell" onclick="top.location.href='/ganlin/'"> 
-      <img src="http://media.wcec-home.org/doc/ganlin/ganlin_2015_1.png" class="section"/> <br/> 
-      <span class="label label-info">甘霖期刊</span>
-    </div>
-  </div>
-  <div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="section-cell"
-    onclick="top.location.href='/category/children_ministry/'"> 
-     <img src="http://media.wcec-home.org/image/children_1.jpg" class="section"/> <br/> 
-      <span class="label label-warning">儿童事工 </span>
-    </div>
-  </div>
-  <div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="section-cell" onclick="top.location.href='{% post_url /music/2015-03-01-choir-video %}'"> 
-    <img src="http://media.wcec-home.org/image/piano_1.jpg" class="section"/> <br/> 
-      <span class="label label-danger">教会献诗 </span>
-    </div>
-  </div>
+  <table width="100%">
+    <tr>
+      <td width="33%">
+        <div class="col-xs-12 col-sm-6 col-md-4">
+          <div class="section-cell" onclick="top.location.href='/category/update/'"> 
+            <img src="http://media.wcec-home.org/image/recent_update.jpg"/>
+            <span class="label label-success">近期更新</span>
+          </div>
+        </div>
+      </td>
+      <td width="33%">
+        <div class="col-xs-12 col-sm-6 col-md-4">
+          <div class="section-cell" > 
+            {% include event.html %}
+            <span class="label label-primary">活动通知 </span>
+          </div>
+        </div>
+      </td>
+      <td width="33%">
+        <div class="col-xs-12 col-sm-6 col-md-4">
+          <div class="section-cell"
+          onclick="top.location.href='/category/message/'"> 
+            <img src="http://media.wcec-home.org/image/message_1.jpg" /> <br/>
+            <span class="label label-default">主日信息 </span> 
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%">
+        <div class="col-xs-12 col-sm-6 col-md-4">
+          <div class="section-cell" onclick="top.location.href='/ganlin/'"> 
+            <img src="http://media.wcec-home.org/doc/ganlin/ganlin_2015_1.png" class="section"/> <br/> 
+            <span class="label label-info">甘霖期刊</span>
+          </div>
+        </div>
+      </td>
+      <td width="33%">
+        <div class="col-xs-12 col-sm-6 col-md-4">
+          <div class="section-cell"
+          onclick="top.location.href='/category/children_ministry/'"> 
+          <img src="http://media.wcec-home.org/image/children_1.jpg" class="section"/> <br/> 
+            <span class="label label-warning">儿童事工 </span>
+          </div>
+        </div>
+      </td>
+      <td width="33%">
+        <div class="col-xs-12 col-sm-6 col-md-4">
+          <div class="section-cell" onclick="top.location.href='{% post_url /music/2015-03-01-choir-video %}'"> 
+          <img src="http://media.wcec-home.org/image/piano_1.jpg" class="section"/> <br/> 
+            <span class="label label-danger">教会献诗 </span>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 <span class="clear"/>
