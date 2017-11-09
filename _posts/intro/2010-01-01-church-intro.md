@@ -20,7 +20,7 @@ Church)][WCCEC]。主恩堂又于2007年9月9日在特拉华州Bear地区成立�
 我们的信仰
 ==========
 
- * 威明顿主恩堂 ([宪章中文版][constitution_chn])- ([Constitution English version][constitution_eng])
+ > 威明顿主恩堂 ([宪章中文版][constitution_chn]) - ([Constitution English version][constitution_eng])
 
 主恩堂宗旨
 ==================
