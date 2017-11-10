@@ -5,6 +5,6 @@ categories: event
 tags: event 
 ---
 
-![2017 WCEC Outreach Program](https://drive.google.com/open?id=1AsbKAEOSi58pklnE0hqyxZpaqN4pp47B)
+![2017 WCEC Outreach Program](http://wuvillage.net/WCEC/youth-parenting.jpeg)
 
 ![2017 WCEC Evangelization  ](http://wuvillage.net/WCEC/huang.jpg)
