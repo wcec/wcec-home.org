@@ -10,6 +10,7 @@ media_url: http://media.wcec-home.org
 
 paginate: 10
 
+include: ['pages'] 
 exclude: ['doc']
 
 gems:
