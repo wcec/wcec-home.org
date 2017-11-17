@@ -1,6 +1,8 @@
 body{font-size:14pt;}
 
 .clear{clear:both;}
+#clear1 {clear:top;}
+#clear2 {clear:top;}
 
 #homewrap {max-width:1400px;}
 #content-main {}
