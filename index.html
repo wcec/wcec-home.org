@@ -17,11 +17,19 @@ published: true
 
 <button onclick="myFunction()">Try it</button>
 <script>
-function myFunction() {
-    var myWindow = window.open("", "myWindow", "width=200,height=100, location=0, menubar=0");
-    myWindow.document.write("<p>This is 'myWindow'</p>");
-    //myWindow.opener.document.write("<p>This is the source window!</p>");
-}
+var dualScreenLeft = window.screenLeft != undefined ? window.screenLeft : screen.left;
+    var dualScreenTop = window.screenTop != undefined ? window.screenTop : screen.top;
+
+    var width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
+    var height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
+
+    var left = ((width / 2) - (w / 2)) + dualScreenLeft;
+    var top = ((height / 2) - (h / 2)) + dualScreenTop;
+
+    //var myWindow = window.open("", "myWindow", "width=200,height=100");
+     var myWindow = window.open("", "myWindow", width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+	myWindow.document.write("<p>This is 'myWindow'</p>");
+    myWindow.opener.document.write("<p>This is the source window!</p>");
 </script>
 <h2>最新活动</h2>
 <ul>
