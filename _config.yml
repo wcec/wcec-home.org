@@ -13,5 +13,7 @@ paginate: 10
 include: ['pages'] 
 exclude: ['doc']
 
+future: true 
+
 gems:
 - jekyll-sitemap
