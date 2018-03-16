@@ -19,19 +19,7 @@ tags: sunday_school
 
    -- 牧长同工 授課; 教室：副堂 W205
 
- * [使徒行传和保罗书信](#4) &nbsp; <a  target="_blank" onClick="authUser()">(slides|notes)</a>
- <script language="JavaScript">
-function authUser() { 
-	var password;
-	var pass1="secretpassword";
-	password=prompt('Enter Password To View Page',' ');
-	if (password==pass1)
-		alert('Correct password, click OK to enter.');
-	else
-	{
-		window.location="http://www.msn.com";
-	}}
-</script>
+ * [使徒行传和保罗书信](#4) &nbsp; <a href="https://drive.google.com/open?id=1buVmYNF9JHkDkSBY3fxhzdvwJfJmYvHy" target="_blank">(slides|notes)</a>
 
    -- 黄呈熙、于斌、李季 授課; 教室：副堂 W103
 
