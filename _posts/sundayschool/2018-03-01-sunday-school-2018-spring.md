@@ -30,9 +30,7 @@ function authUser() {
 	else
 	{
 		window.location="http://www.msn.com";
-	}
-
-}
+	}}
 </script>
 
    -- 黄呈熙、于斌、李季 授課; 教室：副堂 W103
