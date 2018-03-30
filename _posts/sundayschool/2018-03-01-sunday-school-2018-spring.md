@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: 主恩堂2018春季主日学课程
+title: 主恩堂2018春季主日学课程 &nbsp; <a href="http://wuvillage.net/WCEC/ched/simplelogin/enterpwd.html" target="_blank">(Slides|Notes)</a>
 category: sundayschool
 tags: sunday_school
 ---
@@ -19,7 +19,7 @@ tags: sunday_school
 
    -- 牧长同工 授課; 教室：副堂 W205
 
- * [使徒行传和保罗书信](#4) &nbsp; <a href="http://wuvillage.net/WCEC/ched/simplelogin/enterpwd.html" target="_blank">(slides|notes)</a>
+ * [使徒行传和保罗书信](#4) 
 
    -- 黄呈熙、于斌、李季 授課; 教室：副堂 W103
 
