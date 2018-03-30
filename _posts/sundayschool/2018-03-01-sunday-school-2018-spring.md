@@ -5,7 +5,7 @@ category: sundayschool
 tags: sunday_school
 ---
 
-授課时间: 3/4 - 5/20&nbsp;|&nbsp; <a href="http://wuvillage.net/WCEC/ched/simplelogin/enterpwd.html" target="_blank">(Slides|Notes)</a>
+授課时间: 3/4 - 5/20&nbsp;|&nbsp; <a href="http://wuvillage.net/WCEC/ched/simplelogin/enterpwd.html" target="_blank">(Slides and Notes)</a>
 
 
  * [利未记](#1)
