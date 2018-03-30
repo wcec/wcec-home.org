@@ -1,11 +1,12 @@
 ---
 layout: post 
-title: 主恩堂2018春季主日学课程 &nbsp; <a href="http://wuvillage.net/WCEC/ched/simplelogin/enterpwd.html" target="_blank">(Slides|Notes)</a>
+title: 主恩堂2018春季主日学课程
 category: sundayschool
 tags: sunday_school
 ---
 
-授課时间: 3/4 - 5/20
+授課时间: 3/4 - 5/20&nbsp;|&nbsp; <a href="http://wuvillage.net/WCEC/ched/simplelogin/enterpwd.html" target="_blank">(Slides|Notes)</a>
+
 
  * [利未记](#1)
 
