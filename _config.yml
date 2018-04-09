@@ -15,5 +15,5 @@ exclude: ['doc']
 
 future: true 
 
-gems:
-- jekyll-sitemap
+plugins:
+  - jekyll-sitemap 
