@@ -6,7 +6,7 @@ tags: sunday_school
 ---
 
 授課时间: 3/4 - 5/20&nbsp;|&nbsp; <a href="http://wuvillage.net/WCEC/ched/simplelogin/enterpwd.html" target="_blank">(Slides and Notes)</a>
-<!--
+
 <div
   ng-app="sundaySchool2018SpringMaterials"
   ng-controller="ctrlSundaySchool2018SpringMaterials">
@@ -56,7 +56,7 @@ tags: sunday_school
 	};
     });
 </script>
--->
+
  * [利未记](#1)
 
    -- 譚新宇 授課; 教室：副堂 W105
