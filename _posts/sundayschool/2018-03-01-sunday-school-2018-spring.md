@@ -6,7 +6,7 @@ tags: sunday_school
 ---
 
 授課时间: 3/4 - 5/20&nbsp;|&nbsp; <a href="http://wuvillage.net/WCEC/ched/simplelogin/enterpwd.html" target="_blank">(Slides and Notes)</a>
-
+<!--
 <div
   ng-app="sundaySchool2018SpringMaterials"
   ng-controller="ctrlSundaySchool2018SpringMaterials">
@@ -24,6 +24,7 @@ tags: sunday_school
     <p>I am {% raw %}{{mLink()}}{% endraw %} haha</p>
     <p>Link {% raw %}{{gotLink}}{% endraw %}</p>
 </div>
+-->
 <script>
     let app = angular.module('sundaySchool2018SpringMaterials', []);
     app.controller('ctrlSundaySchool2018SpringMaterials', function($scope) {
