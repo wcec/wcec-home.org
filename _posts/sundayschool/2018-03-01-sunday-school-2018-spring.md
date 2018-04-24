@@ -24,7 +24,7 @@ tags: sunday_school
     <p>I am {% raw %}{{mLink()}}{% endraw %} haha</p>
     <p>Link {% raw %}{{gotLink}}{% endraw %}</p>
 </div>
--->
+
 <script>
     let app = angular.module('sundaySchool2018SpringMaterials', []);
     app.controller('ctrlSundaySchool2018SpringMaterials', function($scope) {
@@ -56,7 +56,7 @@ tags: sunday_school
 	};
     });
 </script>
-
+-->
  * [利未记](#1)
 
    -- 譚新宇 授課; 教室：副堂 W105
