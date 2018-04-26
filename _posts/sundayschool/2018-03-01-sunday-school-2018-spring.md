@@ -7,54 +7,15 @@ tags: sunday_school
 
 授課时间: 3/4 - 5/20&nbsp;|&nbsp; <a href="http://wuvillage.net/WCEC/ched/simplelogin/enterpwd.html" target="_blank">(Slides and Notes)</a>
 
-<div
-  ng-app="sundaySchool2018SpringMaterials"
-  ng-controller="ctrlSundaySchool2018SpringMaterials">
-    <select
-        ng-model="courseId"
-	ng-change="updateLink()">
-      <option value="ns">Select a course</option>
-      <option value="0">使徒行传和保罗书信</option>
-      <option value="1">信徒造就班</option>
-      <option value="2">利未记</option>
-      <option value="3">如何牧养孩子的心</option>
-      <option value="4">福音真理班</option>
-    </select>
-    <input type="text" ng-model="tinput"/>
-    <p>I am {% raw %}{{mLink()}}{% endraw %} haha</p>
-    <p>Link {% raw %}{{gotLink}}{% endraw %}</p>
-</div>
-<script>
-    let app = angular.module('sundaySchool2018SpringMaterials', []);
-    app.controller('ctrlSundaySchool2018SpringMaterials', function($scope) {
-    
-        let fGetCourseId = function() { return $scope.courseId; };
-	
-    	$scope.mLink = fGetCourseId;
+<br/> 
+<object
+  width="100%"
+  height="200"
+  data="http://localhost/php/sundaySchoolLinks.php"
+  type="text/html">
+</object>
+<br/> 
 
-        $scope.updateLink = function () {
-
-	    let reqData = {
-	        year:"2018",
-		season:"spring",
-		courseId:$scope.courseId,
-		password:"thetruth"
-	    };
-	    
-	    $scope.gotLink = "yaya";
-
-	    $http.post(
-	      "http://127.0.0.1/php/sundaySchoolLinks.php", 
-	      JSON.stringify(reqData)).then(
-	          function(response) {
-		    $scope.gotLink = response.data.link; 
-		  },
-		  function(response) {
-		    $scope.gotLink = "bad"; 
-		  }); 
-	};
-    });
-</script>
 
  * [利未记](#1)
 
