@@ -11,7 +11,7 @@ tags: sunday_school
 <br/> 
 <object
   width="100%"
-  height="7%"
+  height="50"
   data="http://wuvillage.net/WCECUtil/sundaySchoolLinks.php" 
   type="text/html">
 </object>
