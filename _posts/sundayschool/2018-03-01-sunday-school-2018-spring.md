@@ -7,11 +7,12 @@ tags: sunday_school
 
 授課时间: 3/4 - 5/20&nbsp;|&nbsp; <a href="http://wuvillage.net/WCEC/ched/simplelogin/enterpwd.html" target="_blank">(Slides and Notes)</a>
 
+
 <br/> 
 <object
   width="100%"
   height="200"
-  data="http://localhost/php/sundaySchoolLinks.php"
+  data="http://wuvillage.net/WCECUtil/sundaySchoolLinks.php" 
   type="text/html">
 </object>
 <br/> 
