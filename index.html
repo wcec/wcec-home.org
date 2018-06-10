@@ -18,30 +18,9 @@ published: true
 </h3>
 </div>
 
-<script>
-function PopupCenter(url, title, w, h) {
-    // Fixes dual-screen position                         Most browsers      Firefox
-    var dualScreenLeft = window.screenLeft != undefined ? window.screenLeft : screen.left;
-    var dualScreenTop = window.screenTop != undefined ? window.screenTop : screen.top;
 
-    var width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
-    var height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
-
-    var left = ((width / 2) - (w / 2)) + dualScreenLeft;
-    var top = ((height / 2) - (h / 2)) + dualScreenTop;
-    var newWindow = window.open(url, title, 'location=no, scrollbars=no, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
-    newWindow.document.write("<img width='375' height='500' border='0' src='http://wuvillage.net/WCEC/2017-xmas-eve-concert.jpg'/>");
-    // Puts focus on the newWindow
-    if (window.focus) {
-        newWindow.focus();
-    }
-}
-</script>
 <h2>最新活动</h2>
 <ul>
-  <li>
-    <h3><a href="{{site.base}}/sundayschool/sunday-school-2018-spring">2018春季主日学 -- 9:30am ~ 10:30am</a></h3>
-  </li>
   <li>
     <h3>
       设定
