@@ -5,8 +5,6 @@ category: sundayschool
 tags: sunday_school
 ---
 
-<a href="https://drive.google.com/open?id=1Tm6rTGcjU3c9MbYCeBSl5AWr3hQAMdsr" target="_blank">課程資料</a>
-
  * <a href="https://drive.google.com/open?id=1Tm6rTGcjU3c9MbYCeBSl5AWr3hQAMdsr" target="_blank">課程資料</a>
 
  * [門徒書信與啟示錄](#1)
