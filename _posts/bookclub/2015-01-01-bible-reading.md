@@ -21,6 +21,8 @@ tag: bookclub
 
 鼓勵弟兄姐妹最好還是使用自己的紙本聖經閱讀。不但養成自己每日讀經的習慣，也可以帶領全家一同讀經，或在小組團契約幾位弟兄姐妹定期分享彼此鼓勵。讓神的話語成為我們腳前的燈，路上的光，生命的糧！
 
+下载 [2019/2020 讀經計劃表 (PDF)][schedule_2019]
+
 ## 2017/2018 讀經計劃 ##
 
 2017/2018 年教會採用的[年度讀經進度表][schedule_2017]，是D. A. Carson設計的For the Love of God. 這個進度每天包括A,B,C,D四個部分。A,C是舊約除了詩篇以外的部分，B,D是新約加詩篇。弟兄姐妹可以按自己的興趣及時間，選擇以下各種組合：
@@ -51,4 +53,5 @@ tag: bookclub
 
 [schedule_2016]: https://drive.google.com/file/d/0B66cODim0szOUTRiR3J3MzJhTWc/view?usp=sharing
 [schedule_2017]: {{site.media_url}}/doc/sundayschool/2017-For-the-Love-of-God-Bible-reading-plan.pdf
+[schedule_2019]: http://www.oneyearbibleonline.com/readingplan/oneyearbiblereadingplan_chinese.pdf
 
