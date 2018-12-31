@@ -15,7 +15,7 @@ tag: bookclub
 
 這個讀經計劃的優點是，每天循序閱讀舊約及新約，並且用一段詩篇幫助默想及禱告，幾節箴言成為生活的提醒，甚至可以試著背誦當天的箴言，一年背完整本箴言。
 
-使用電腦讀經的人，可在此網站閱讀：http://www.oneyearbibleonline.com/readingplan/oneyearbiblereadingplan_chinese.pdf。
+使用電腦讀經的人，可在此網站閱讀：https://drive.google.com/open?id=1zcT_NfGwqKyzvM-uxN4lW-mUr_eOSnEa
 
 使用iPad及智慧型手機的人，可在YouVersion裡面選擇The One Year Bible這個plan。
 
@@ -53,5 +53,5 @@ tag: bookclub
 
 [schedule_2016]: https://drive.google.com/file/d/0B66cODim0szOUTRiR3J3MzJhTWc/view?usp=sharing
 [schedule_2017]: {{site.media_url}}/doc/sundayschool/2017-For-the-Love-of-God-Bible-reading-plan.pdf
-[schedule_2019]: http://www.oneyearbibleonline.com/readingplan/oneyearbiblereadingplan_chinese.pdf
+[schedule_2019]: https://drive.google.com/open?id=1zcT_NfGwqKyzvM-uxN4lW-mUr_eOSnEa
 
