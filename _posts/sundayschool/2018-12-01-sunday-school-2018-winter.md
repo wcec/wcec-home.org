@@ -5,7 +5,7 @@ category: sundayschool
 tags: sunday_school
 ---
 
- * <a href="" target="_blank">課程資料</a>
+ * <a href="https://drive.google.com/file/d/19mvQmxxI-jmGZ1pGLJPz-8Cmtus337R1/view?usp=sharing" target="_blank">課程資料</a>
 
  * [律法书](#1)
 
